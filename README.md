@@ -6,7 +6,6 @@
 
 **Управление**
 
-
 W, A, S, D - управление игроком;<br>
 H, K, J, I - выбор материала;<br>
 U - создание материала напротив игрока;<br>
@@ -27,7 +26,6 @@ F5 - сохранение карты;
 
 
 **Control**
-
 
 W, A, S, D - Control the player;<br>
 H, K, J, I - the choice of material;<br>
