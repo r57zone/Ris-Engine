@@ -1,42 +1,42 @@
 # RU:
 
-**Ris Engine** - простой 2D движок, загружающий карты и использующий триггеры.<br>
+Ris Engine - простой 2D движок, загружающий карты и использующий триггеры.<br>
 ![2](https://cloud.githubusercontent.com/assets/9499881/8625231/77c9e626-274e-11e5-81a0-02bbf06bfb80.gif)
 
 
-**Управление**
-
+### Управление
 W, A, S, D - управление игроком;<br>
-H, K, J, I - выбор материала;<br>
-U - создание материала напротив игрока;<br>
+H, K, J, I - изменить блок;<br>
+U - изменить блок напротив игрока;<br>
 T - создание триггера напротив игрока;<br>
 P - отладка;<br>
 Enter - пропуск диалога;<br>
 F5 - сохранение карты;
 
+### Загрузка
+[Загрузить](https://github.com/r57zone/Ris-Engine/releases)
 
-**[Скачать последнюю версию](https://github.com/r57zone/Ris-Engine/releases)**
 
-
-**Обратная связь**: r57zone[собака]gmail.com
+### Обратная связь
+`r57zone[собака]gmail.com`
 
 
 # EN:
-**Ris Engine** - simple 2D engine, downloadable maps and using triggers.
+Ris Engine - simple 2D engine, downloadable maps and using triggers.
 
 
-**Control**
-
-W, A, S, D - Control the player;<br>
-H, K, J, I - the choice of material;<br>
-U - the creation of the material front of a player;<br>
-T - the creation of a trigger on the contrary Player;<br>
+### Control
+W, A, S, D - control the player;<br>
+H, K, J, I - change block;<br>
+U - change block on the opposite player;;<br>
+T - make trigger on the opposite player;<br>
 P - debugging;<br>
 Enter - skip dialogue;<br>
-F5 - the save map;
+F5 - save map;
+
+### Download
+[Download](https://github.com/r57zone/Ris-Engine/releases)
 
 
-**[Download the latest version](https://github.com/r57zone/Ris-Engine/releases)**
-
-
-**Feedback:** r57zone[at]gmail.com
+### Feedback
+`r57zone[at]gmail.com`
