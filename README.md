@@ -1,7 +1,7 @@
 # RU:
 
 Ris Engine - простой 2D движок, загружающий карты и использующий триггеры.<br>
-![2](https://cloud.githubusercontent.com/assets/9499881/8625231/77c9e626-274e-11e5-81a0-02bbf06bfb80.gif)
+![](https://cloud.githubusercontent.com/assets/9499881/8625231/77c9e626-274e-11e5-81a0-02bbf06bfb80.gif)
 
 
 ### Управление
