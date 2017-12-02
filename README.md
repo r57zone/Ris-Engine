@@ -22,7 +22,7 @@ F5 - сохранение карты;
 
 
 # EN:
-Ris Engine - simple 2D engine, downloadable maps and using triggers.
+Ris Engine - simple 2D engine, load maps and using triggers.
 
 
 ### Control
